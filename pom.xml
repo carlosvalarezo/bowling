@@ -9,7 +9,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
  
-	<name>Demo bowling for Jobsity</name>
+	<name>Demo bowling</name>
 	<url>http://www.carlosvalarezo.com</url>
  
 	<developers>
